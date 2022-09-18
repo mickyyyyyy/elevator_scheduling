@@ -16,13 +16,16 @@ The goal of this system is to schedule elevators to specific floors, this requir
 In addition to many other sub-goals which stem from these major goals.
 
 ## Progress ##
-The system currently has a mediocre pickup heuristic, prints the state of the elevator system at each time interval, and is able to trace requests for passengers requiring to use the elevator system.
-
+The system currently has:
+    [x] A pickup heuristic.
+    [x] A string-based representation of the elevator system.
+    [x] A traceable method for requests.
+    
 ## Future Additions ##
 In terms of future additions, we aim to:  
   
-    1. Improve on the pickup heuristic.  
-    2. Utilise the pick up/drop off feature for improved tracing.  
-    3. Change the data structure used for the floors each elevator needs to travel to (aiming for a more efficient run-time).  
-    4. Utilise multiple threads or timers to incorporate elevators with various speeds in the same system.  
-    3. Improve the representation (using a GUI).  
+    [ ] Improve on the pickup heuristic.  
+    [ ] Utilise the pick up/drop off feature for improved tracing.  
+    [ ] Change the data structure used for the floors each elevator needs to travel to (aiming for a more efficient run-time).  
+    [ ] Utilise multiple threads or timers to incorporate elevators with various speeds in the same system.  
+    [ ] Improve the representation (using a GUI).  
