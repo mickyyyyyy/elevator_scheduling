@@ -18,9 +18,9 @@ In addition to many other sub-goals which stem from these major goals.
 The system currently has a mediocre pickup heuristic, prints the state of the elevator system at each time interval, and is able to trace requests for passengers requiring to use the elevator system.
 
 ## Future Additions ##
-In terms of future additions, we aim to: \n
-    1. Improve on the pickup heuristic. \n
-    2. Utilise the pick up/drop off feature for improved tracing. \n
-    3. Change the data structure used for the floors each elevator needs to travel to (aiming for a more efficient run-time). \n
-    4. Utilise multiple threads or timers to incorporate elevators with various speeds in the same system. \n
-    3. Improve the representation (using a GUI). \n
+In terms of future additions, we aim to:  
+    1. Improve on the pickup heuristic.  
+    2. Utilise the pick up/drop off feature for improved tracing.  
+    3. Change the data structure used for the floors each elevator needs to travel to (aiming for a more efficient run-time).  
+    4. Utilise multiple threads or timers to incorporate elevators with various speeds in the same system.  
+    3. Improve the representation (using a GUI).  
