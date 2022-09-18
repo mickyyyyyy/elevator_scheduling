@@ -7,6 +7,7 @@ Contains all the files needed to solve the problem of scheduling elevators for p
 
 ## Goals ##
 The goal of this system is to schedule elevators to specific floors, this requires:  
+  
     1. An accurate heuristic for the pickup time on a given floor for each elevator.  
     2. A traceable method for requesting pick ups from given floor.  
     3. A valid representation of the floors each elevator needs to visit, and the order in which they will be visiting them.  
@@ -19,6 +20,7 @@ The system currently has a mediocre pickup heuristic, prints the state of the el
 
 ## Future Additions ##
 In terms of future additions, we aim to:  
+  
     1. Improve on the pickup heuristic.  
     2. Utilise the pick up/drop off feature for improved tracing.  
     3. Change the data structure used for the floors each elevator needs to travel to (aiming for a more efficient run-time).  
