@@ -16,10 +16,10 @@ The goal of this system is to schedule elevators to specific floors, this requir
 In addition to many other sub-goals which stem from these major goals.
 
 ## Progress ##
-The system currently has:
-    [x] A pickup heuristic.
-    [x] A string-based representation of the elevator system.
-    [x] A traceable method for requests.
+The system currently has:  
+    [x] A pickup heuristic.  
+    [x] A string-based representation of the elevator system.  
+    [x] A traceable method for requests.  
     
 ## Future Additions ##
 In terms of future additions, we aim to:  
