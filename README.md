@@ -3,7 +3,7 @@
 ## Overview ##
 Contains all the files needed to solve the problem of scheduling elevators for passengers on various floors in an elevator system.
 
-![image](https://user-images.githubusercontent.com/62014208/190886524-641a3ece-bb3a-4038-9854-c8e98da2b871.png)
+![image](https://user-images.githubusercontent.com/62014208/190889719-09e7df0d-e6bc-4395-af8f-167dd623d300.png)
 
 ## Goals ##
 The goal of this system is to schedule elevators to specific floors, this requires:  
