@@ -30,3 +30,11 @@ In terms of future additions, we aim to:
 - [ ] Change the data structure used for the floors each elevator needs to travel to (aiming for a more efficient run-time).  
 - [ ] Utilise multiple threads or timers to incorporate elevators with various speeds in the same system.  
 - [ ] Improve the representation (using a GUI).  
+
+## Running the Program ##
+In order to run the program, open up an IDE (I used IDLE but it doesn't really matter), and run file `elevator.py`, then type in shell:
+
+`t = TransportSystem()`
+`t.simulation(a, b)`
+
+Where `a` and `b` are pre-defined integers (type in `help(TransportSystem.simulation)` to the shell to understand what these integers mean).
