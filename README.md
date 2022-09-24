@@ -34,7 +34,7 @@ In terms of future additions, we aim to:
 ## Running the Program ##
 In order to run the program, open up an IDE (I used IDLE but it doesn't really matter), and run file `elevator.py`, then type in shell:
 
-`t = TransportSystem()`
+`t = TransportSystem()`  
 `t.simulation(a, b)`
 
 Where `a` and `b` are pre-defined integers (type in `help(TransportSystem.simulation)` to the shell to understand what these integers mean).
